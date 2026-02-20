@@ -199,7 +199,20 @@ if __name__ == "__main__":
     dados = {
         "titulo": noticia["titulo"],
         "img_topo": imagem_final,
-        "texto_completo": texto_ia,
+        "intro": texto_ia[:700],
+    
+        "sub1": "Análise do Cenário",
+        "texto1": texto_ia,
+    
+        "img_meio": imagem_final,
+    
+        "sub2": "Impactos no Mercado",
+        "texto2": texto_ia,
+    
+        "sub3": "Perspectivas",
+        "texto3": texto_ia,
+    
+        "texto_conclusao": texto_ia,
         "assinatura": BLOCO_FIXO_FINAL
     }
 
