@@ -114,5 +114,4 @@ BLOCO_FIXO_FINAL = """
 </div>
 <hr data-end="883" data-start="880" style="text-align: justify;" />
 <h2 data-end="913" data-start="885" style="text-align: justify;"><br /></h2>
-</div></div>
 """
