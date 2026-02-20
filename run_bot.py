@@ -198,7 +198,7 @@ if __name__ == "__main__":
 
     dados = {
         "titulo": noticia["titulo"],
-        "imagem": imagem_final,
+        "img_topo": imagem_final,
         "texto_completo": texto_ia,
         "assinatura": BLOCO_FIXO_FINAL
     }
